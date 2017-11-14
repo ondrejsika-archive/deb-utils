@@ -6,3 +6,10 @@
 Utils to build and publish DEB packages easy way
 
 
+### dpkg-deb build
+
+```
+du-build <dir>
+```
+
+

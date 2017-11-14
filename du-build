@@ -1,0 +1,4 @@
+#!/bin/sh
+
+dpkg-deb -Zgzip --build $1 $1.deb
+
